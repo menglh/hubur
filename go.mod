@@ -8,7 +8,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/projectdiscovery/blackrock v0.0.1
 	github.com/projectdiscovery/gologger v1.1.12
-	github.com/projectdiscovery/utils v0.0.79
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d
 	github.com/stretchr/testify v1.8.4
 	go.uber.org/multierr v1.11.0
