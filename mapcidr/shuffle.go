@@ -3,7 +3,7 @@ package mapcidr
 import (
 	"net"
 
-	"github.com/projectdiscovery/blackrock"
+	"github.com/menglh/hubur/blackrock"
 )
 
 // ShuffleCidrsWithSeed uses blackrock to visit all ips in random order

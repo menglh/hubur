@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/projectdiscovery/ipranger"
+	"github.com/menglh/hubur/ipranger"
 )
 
 func main() {

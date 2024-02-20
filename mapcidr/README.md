@@ -48,7 +48,7 @@ mapCIDR is developed to ease load distribution for mass scanning operations, it 
 # Installation
 
 ```sh
-go install -v github.com/projectdiscovery/mapcidr/cmd/mapcidr@latest
+go install -v github.com/menglh/mapcidr/cmd/mapcidr@latest
 ```
 
 # Usage
@@ -111,14 +111,6 @@ mapcidr -cidr 173.0.84.0/24
 ```
 
 ```console
-                   ____________  ___    
-  __ _  ___ ____  / ___/  _/ _ \/ _ \
- /  ' \/ _ '/ _ \/ /___/ // // / , _/   
-/_/_/_/\_,_/ .__/\___/___/____/_/|_| v0.5
-          /_/                                                     	 
-
-		projectdiscovery.io
-
 [WRN] Use with caution. You are responsible for your actions
 [WRN] Developers assume no liability and are not responsible for any misuse or damage.
 

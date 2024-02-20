@@ -1,4 +1,4 @@
-package asn
+package main
 
 import (
 	"fmt"
