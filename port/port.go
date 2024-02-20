@@ -2,7 +2,7 @@ package port
 
 import (
 	"fmt"
-	"projectdiscovery/hubur/protocol"
+	"github.com/menglh/hubur/protocol"
 )
 
 type Port struct {
