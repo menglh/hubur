@@ -1,6 +1,6 @@
 # fdmax
-Small Helper library that increases automatically the maximum number of file descriptors for the current go program.
-It can be simply imported as follows:
+小型 Helper 库，可自动增加当前 go 程序的最大文件描述符数。
+可以简单地导入如下：
 
 ```
 package main
