@@ -5,10 +5,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/projectdiscovery/goflags"
+	"github.com/menglh/hubur/goflags"
 )
 
-type Options struct {
+type FlagsOptions struct {
 	name     string
 	Email    goflags.StringSlice
 	Phone    string
@@ -24,7 +24,7 @@ type Options struct {
 }
 
 func main() {
-	testOptions := &Options{}
+	testOptions := &FlagsOptions{}
 	CheckUpdate := func() {
 		fmt.Println("checking if new version is available")
 		fmt.Println("updating tool....")
